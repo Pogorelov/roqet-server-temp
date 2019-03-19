@@ -1,0 +1,5 @@
+com/roqet/server/repositories/PetRepository.class
+com/roqet/server/entities/Pet.class
+com/roqet/server/RoqetApplication.class
+com/roqet/server/enums/Animal.class
+com/roqet/server/resolvers/Query.class
